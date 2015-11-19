@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[V2xGuangzhou]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://V2xGuangzhou.github.io/"/>
+  <updated>2015-11-19T15:22:47.000Z</updated>
+  <id>http://V2xGuangzhou.github.io/</id>
+  
+  <author>
+    <name><![CDATA[V2xGuangzhou]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[V2xGuangzhou 组织正式成立]]></title>
+    <link href="http://V2xGuangzhou.github.io/2015/11/19/V2xGuangzhou-begin/"/>
+    <id>http://V2xGuangzhou.github.io/2015/11/19/V2xGuangzhou-begin/</id>
+    <published>2015-11-19T15:05:29.000Z</published>
+    <updated>2015-11-19T15:22:47.000Z</updated>
+    <content type="html"><![CDATA[<p>Hello world</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Hello world</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
